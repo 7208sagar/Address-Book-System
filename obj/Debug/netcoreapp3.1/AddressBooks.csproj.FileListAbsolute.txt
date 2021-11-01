@@ -1,0 +1,5 @@
+C:\Users\hp\source\repos\AddressBooks\AddressBooks\obj\Debug\netcoreapp3.1\AddressBooks.csproj.AssemblyReference.cache
+C:\Users\hp\source\repos\AddressBooks\AddressBooks\obj\Debug\netcoreapp3.1\AddressBooks.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\source\repos\AddressBooks\AddressBooks\obj\Debug\netcoreapp3.1\AddressBooks.AssemblyInfoInputs.cache
+C:\Users\hp\source\repos\AddressBooks\AddressBooks\obj\Debug\netcoreapp3.1\AddressBooks.AssemblyInfo.cs
+C:\Users\hp\source\repos\AddressBooks\AddressBooks\obj\Debug\netcoreapp3.1\AddressBooks.csproj.CoreCompileInputs.cache
